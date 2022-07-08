@@ -20,3 +20,14 @@ La forma de calificar será:
 Se entregan cuatro archivos en total. Entregables:
 - El programa *.py utilizado (por favor no poner menús, en cuanto se corra, debe abrir la ventana con el resultado del procesamiento, ya que yo lo voy usar para probar un cuarto tablero)
 - Las tres capturas *.jpg de los tres tableros conocidos (recortar sólo la ventana del imshow par que se alcance a leer el texto)
+
+## **Herramientas**
+
+Para simplificar el desarrollo de este proyecto unicamente se utilizaron 2 herramientas
+
+1. [Sublime Text](https://www.sublimetext.com/): es un editor de texto y editor de código fuente. Está escrito en C++ y Python para los plugins. Desarrollado originalmente como una extensión de Vim, con el tiempo fue creando una identidad propia. 
+Se puede descargar y evaluar de forma gratuita. Sin embargo no es software libre o de código abierto y se debe obtener una licencia para su uso continuado, aunque la versión de evaluación es plenamente funcional y no tiene fecha de caducidad. [Fuente](https://es.wikipedia.org/wiki/Sublime_Text)
+
+2. [CMD de Windows](https://www.reviewhardware.com/como-funciona/que-es-cmd-que-significa-y-para-que-sirve#:~:text=CMD%20es%20una%20abreviatura%20que%20significa%20%E2%80%9CCommand%E2%80%9D%20y,de%20la%20introducci%C3%B3n%20de%20comandos%20de%20textos%2C%20): No realizé la ejecución de los programas directamente desde *Sublime Text*, para ejecutarlos utilizé la herramienta CMD de Windows, esta no necesita ninguna instalación porque es una herramienta que ya viene incluida.
+
+
