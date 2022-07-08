@@ -30,4 +30,10 @@ Se puede descargar y evaluar de forma gratuita. Sin embargo no es software libre
 
 2. [CMD de Windows](https://www.reviewhardware.com/como-funciona/que-es-cmd-que-significa-y-para-que-sirve#:~:text=CMD%20es%20una%20abreviatura%20que%20significa%20%E2%80%9CCommand%E2%80%9D%20y,de%20la%20introducci%C3%B3n%20de%20comandos%20de%20textos%2C%20): No realizé la ejecución de los programas directamente desde *Sublime Text*, para ejecutarlos utilizé la herramienta CMD de Windows, esta no necesita ninguna instalación porque es una herramienta que ya viene incluida.
 
+## **Bibliotecas Utilizadas**
 
+Se utilizaron las siguientes 3 librerias para la realización del proyecto:
+
+1. [Numpy](https://numpy.org/doc/stable/): NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
+
+2. [CV2](https://docs.opencv.org/4.x/d0/de3/tutorial_py_intro.html): OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
