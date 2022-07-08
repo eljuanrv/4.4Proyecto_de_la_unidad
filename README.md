@@ -3,7 +3,7 @@ Este es el proyecto desarrollado para concluir el cuarto parcial de mi materia d
 
 ## **INSTRUCCIONES**
 
-Usar los 3 tableros adjuntos para detectar las posiciones tanto de las piezas blancas como de las piezas cafés. Las consideraciones son las siguientes:
+Usar los 3 tableros( [Tablero1](https://github.com/eljuanrv/4.4Proyecto_de_la_unidad/blob/main/tablero1.png), [Tablero2](https://github.com/eljuanrv/4.4Proyecto_de_la_unidad/blob/main/tablero2.png), [Tablero3](https://github.com/eljuanrv/4.4Proyecto_de_la_unidad/blob/main/tablero3.png)  ) adjuntos para detectar las posiciones tanto de las piezas blancas como de las piezas cafés. Las consideraciones son las siguientes:
 
 1. Aplicar una máscara para que sepa qué piezas son blancas y qué piezas son cafés.
 2. Contar el número de piezas blancas en el tablero y poner el resultado en la parte superior izquierda con color azul.
