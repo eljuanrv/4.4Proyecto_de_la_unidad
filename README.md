@@ -36,4 +36,6 @@ Se utilizaron las siguientes 3 librerias para la realización del proyecto:
 
 1. [Numpy](https://numpy.org/doc/stable/): NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
 
-2. [CV2](https://docs.opencv.org/4.x/d0/de3/tutorial_py_intro.html): OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
+2. [OpenCV](https://docs.opencv.org/4.x/d0/de3/tutorial_py_intro.html): OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
+
+3. [Matplotlib](https://matplotlib.org/): Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
